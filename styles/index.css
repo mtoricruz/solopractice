@@ -1,0 +1,8 @@
+/* RESET */
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+    max-width: 100%; /*never be bigger than your parent - stop the dreaded horizontal scroll bar*/
+    border: 1px solid grey;
+}
